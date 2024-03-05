@@ -1,4 +1,4 @@
-pip install matplotlib.pyplot
+!pip install matplotlib.pyplot
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
