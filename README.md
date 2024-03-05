@@ -1,1 +1,2 @@
 # Bangkit
+`git status`
